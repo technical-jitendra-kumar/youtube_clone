@@ -6,8 +6,8 @@ A feature-rich YouTube clone built using **HTML**, **CSS**, **JavaScript**, and 
 
 ## 🔗 Live Demo
 
-[Click here to view the live demo](#)  
-*(Replace `#` with the link to your hosted project.)*
+[Click here to view the live demo](https://technical-jitendra-kumar.github.io/youtube_clone/)  
+
 
 ---
 
@@ -71,10 +71,10 @@ A feature-rich YouTube clone built using **HTML**, **CSS**, **JavaScript**, and 
 *(Add screenshots of your project here)*  
 Example:  
 ### Homepage
-![Homepage Screenshot](screenshots/homepage.png)
+![Homepage Screenshot](images/Screenshot%202025-01-14%20224243.png)
 
 ### Video Player
-![Video Player Screenshot](screenshots/video-player.png)
+![Video Player Screenshot](images/Screenshot%202025-01-14%20224327.png)
 
 ---
 
@@ -89,7 +89,5 @@ Example:
 ## 📧 Contact
 
 For any inquiries, feel free to reach out:  
-- **Email**: your-email@example.com  
-- **GitHub**: [github.com/your-username](https://github.com/your-username)  
-
-*(Replace placeholders with your actual contact details.)*
+- **Email**: jitendrakumarjjk10@gamil.com
+- **GitHub**: (https://github.com/technical-jitendra-kumar)
