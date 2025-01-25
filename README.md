@@ -61,8 +61,7 @@ A feature-rich YouTube clone built using **HTML**, **CSS**, **JavaScript**, and 
 
 ## 🌟 Screenshots
 
-*(Add screenshots of your project here)*  
-Example:  
+ 
 ### Homepage
 ![Homepage Screenshot](images/Screenshot%202025.png)
 
