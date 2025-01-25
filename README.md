@@ -4,13 +4,6 @@ A feature-rich YouTube clone built using **HTML**, **CSS**, **JavaScript**, and 
 
 ---
 
-## 🔗 Live Demo
-
-[Click here to view the live demo](https://technical-jitendra-kumar.github.io/youtube_clone/)  
-
-
----
-
 ## 📂 Features
 
 - **Video Streaming**: Plays videos seamlessly with an embedded player.
@@ -71,7 +64,7 @@ A feature-rich YouTube clone built using **HTML**, **CSS**, **JavaScript**, and 
 *(Add screenshots of your project here)*  
 Example:  
 ### Homepage
-![Homepage Screenshot](images/Screenshot%202025-01-14%20224243.png)
+![Homepage Screenshot](images/Screenshot%202025.png)
 
 ### Video Player
 ![Video Player Screenshot](images/Screenshot%202025-01-14%20224327.png)
